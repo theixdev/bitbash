@@ -1,0 +1,4 @@
+function HackSys() {
+    update student set grade = 7
+    where student=dale and course = dx211
+}
