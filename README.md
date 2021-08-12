@@ -1,6 +1,6 @@
 # bitbash
   SKETCH NAME :  BitBash
-  AUTHOR : Dale Chester   Student No: n10581618
+  AUTHOR : Dale Chester   
   
   HOW TO USE :  Simply pretend your a movie hacker from the 90's,  and start hacking away at your keyboard.
   Important COMPLETE THE FUNCTION to see the whole sketch!!
